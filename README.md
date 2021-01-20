@@ -1,18 +1,18 @@
 
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tom-barrett-7FNOH-qSxMI-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Prize_Draw/main/Images/toys-2-1457366-640x710.jpg)
 
-*This sunset reminds of a war between Good and Evil! Source: Tom Barrett, freeimages.com*
+*Like getting to pick a prize at the fair, this is one tough challenge! Source: Sasha Davas, freeimages.com*
 
 
 ## # Code Challenge Prize Draw
 This is a Python coding challenge with a kyu of 6. You take in three values and return the correct name in the form of it's original string.
 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/mario-dobelmann-QKBc8uYQDH0-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Prize_Draw/main/Images/ariel-HkN64BISuQA-unsplash.jpg)
 
-*It's easy to see in this fern the difference of life and death! Source: Mario Dobelmann, freeimages.com*
+*Does anyone still do trophies anymore?  Source: Ariel, unsplash.com*
 
 
 ## Task
@@ -76,6 +76,6 @@ Turned out to be so much more difficult! I had trouble at each step of the way. 
 Thank you to Codewars for helping me practice my Python skills.
 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tech-nick-5YuVGW2deMw-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Prize_Draw/main/Images/sasha_davas_toys-1-1457416-640x480.jpg)
 
-*Silly little Evil guy on a sign - please enter though! Source: Tech-Nick, freeimages.com *
+*More fun prizes to pick from! Source: Sasha Davas, freeimages.com *

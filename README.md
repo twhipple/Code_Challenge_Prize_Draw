@@ -10,11 +10,6 @@
 This is a Python coding challenge with a kyu of 6. You take in three values and return the correct name in the form of it's original string.
 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Prize_Draw/main/Images/ariel-HkN64BISuQA-unsplash.jpg)
-
-*Does anyone still do trophies anymore?  Source: Ariel, unsplash.com*
-
-
 ## Task
 To participate in a prize draw each one gives his/her firstname.
 
@@ -49,6 +44,11 @@ parameters: st a string of firstnames, we an array of weights, n a rank
 return: the firstname of the participant whose rank is n (ranks are numbered from 1)
 
 
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Prize_Draw/main/Images/ariel-HkN64BISuQA-unsplash.jpg)
+
+*Does anyone still do trophies anymore?  Source: Ariel, unsplash.com*
+
+
 ## Additionally
 
 The weight array is at least as long as the number of names, it can be longer.
@@ -71,7 +71,6 @@ At first I thought this was going to be a pretty easy challenge.
 * Then choose the number given and return the original string.
 
 Turned out to be so much more difficult! I had trouble at each step of the way. Sorting the names at the end, coming up a value for each letter took some research, and putting it all together took a lot of time. But I still had fun and learned a lot.
-
 
 Thank you to Codewars for helping me practice my Python skills.
 
